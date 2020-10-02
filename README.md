@@ -14,8 +14,9 @@
 - Grow/Shrink Animation
 - Css Game is strong
 - Date picker
+- deployment on fire
 
-##### deployed
+#### deployed
 
 https://airbnb-clone-e3c53.web.app/
 
