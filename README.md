@@ -14,7 +14,7 @@
 - Grow/Shrink Animation
 - Css Game is strong
 - Date picker
-- deployment on fire
+- deployment on firebase
 
 #### deployed
 
